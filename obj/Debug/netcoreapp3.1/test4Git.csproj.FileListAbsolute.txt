@@ -1,0 +1,13 @@
+C:\projects\test4Git\bin\Debug\netcoreapp3.1\test4Git.exe
+C:\projects\test4Git\bin\Debug\netcoreapp3.1\test4Git.deps.json
+C:\projects\test4Git\bin\Debug\netcoreapp3.1\test4Git.runtimeconfig.json
+C:\projects\test4Git\bin\Debug\netcoreapp3.1\test4Git.runtimeconfig.dev.json
+C:\projects\test4Git\bin\Debug\netcoreapp3.1\test4Git.dll
+C:\projects\test4Git\bin\Debug\netcoreapp3.1\test4Git.pdb
+C:\projects\test4Git\obj\Debug\netcoreapp3.1\test4Git.csprojAssemblyReference.cache
+C:\projects\test4Git\obj\Debug\netcoreapp3.1\test4Git.csproj.CoreCompileInputs.cache
+C:\projects\test4Git\obj\Debug\netcoreapp3.1\test4Git.AssemblyInfoInputs.cache
+C:\projects\test4Git\obj\Debug\netcoreapp3.1\test4Git.AssemblyInfo.cs
+C:\projects\test4Git\obj\Debug\netcoreapp3.1\test4Git.dll
+C:\projects\test4Git\obj\Debug\netcoreapp3.1\test4Git.pdb
+C:\projects\test4Git\obj\Debug\netcoreapp3.1\test4Git.genruntimeconfig.cache
